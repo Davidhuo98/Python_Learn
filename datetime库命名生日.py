@@ -1,0 +1,11 @@
+from datetime import datetime
+    datetime.strftime("%2004-%10-%02")
+    datetime.strptime("%B,%d,%Y")
+    datetime.strftime("%Y,%m,%d")
+    datetime.strftime("%x")
+    datetime.strftime("%A,%x")
+    datetime.strftime("%b,%d,%Y")
+    datetime.strftime("%a,%m,%Y")
+    datetime.strftime("%Y%m%d")
+    datetime.strftime("%x,%A")
+    datetime.strftime("%d,%a,%Y")
