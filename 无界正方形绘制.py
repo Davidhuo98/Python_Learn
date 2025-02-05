@@ -1,0 +1,21 @@
+import turtle
+for i in range(2):
+    turtle.penup()
+    turtle.fd(100)
+    turtle.pendown()
+    turtle.fd(100)
+    turtle.penup()
+    turtle.fd(100)
+    turtle.seth(90)
+
+turtle.seth(180)
+turtle.fd(100)
+turtle.pendown()
+turtle.fd(100)
+turtle.penup()
+turtle.fd(100)
+turtle.seth(270)
+turtle.fd(100)
+turtle.pendown()
+turtle.fd(100)
+turtle.done()
